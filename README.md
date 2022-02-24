@@ -8,10 +8,10 @@
 user = {
   'name': 'Manoela Cirilo',
   'city': 'Jaboatão dos Guararapes, Pernambuco, Brazil',
-  'stack': ['Python', 'Postgres', 'Git'],
+  'stack': ['Python', 'Java', 'Postgres', 'Git', 'REST API'],
   'languages': {
     'pt-BR': 'native',
-    'en': 'basic',
+    'en': 'intermediate',
   },
   'hobbies': ['hangout with husband', 'beach', 'movies', 'tv']
 }
